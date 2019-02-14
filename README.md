@@ -17,3 +17,6 @@ Engineering week class notes, and additional links, material etc.
     https://enlighten.enphaseenergy.com/pv/systems/345180/overview?osv=1
   - Sense:
     https://sense.com/
+    
+- Google calculator
+  - https://www.google.com/get/sunroof#p=0
