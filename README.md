@@ -20,3 +20,9 @@ Engineering week class notes, and additional links, material etc.
     
 - Google calculator
   - https://www.google.com/get/sunroof#p=0
+  
+- LG&E's page to request a net meter
+  - https://lge-ku.com/residential/billing/net-metering
+  
+- Sigh. Politics. The bill that passed the KY Senate concerning net metering
+  - https://apps.legislature.ky.gov/record/19rs/sb100.html
