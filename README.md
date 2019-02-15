@@ -15,6 +15,13 @@ Engineering week class notes, and additional links, material etc.
   - https://www.anapode.com/content/LearnMore
   - https://www.wholesalesolar.com/solar-information/solar-power-101
   - https://www.solarpowerrocks.com/
+
+- List of local installers
+  - http://www.kyses.org/installers
+  
+- Permit support documents
+  - These are provided free but if you use them please send an E-mail saying thanks to Ken who runs the site
+  - https://www.anapode.com/content/Permits 
   
 - Toys
   - Enlighten - view of my system is here:
