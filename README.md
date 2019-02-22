@@ -10,6 +10,8 @@ Engineering week class notes, and additional links, material etc.
 - Local suppliers
   - Nathan Mann - advertises on Craigslist, stand-up chap, recommended.
   - http://hosting.johnnyblayze.com/mann/
+  - Roofer: Sergei at goroofitright is great and they have done excellent work for me twice
+  - https://www.goroofitright.com/
 
 - How-to pages:
   - https://www.anapode.com/content/LearnMore
