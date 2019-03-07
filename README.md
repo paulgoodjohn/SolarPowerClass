@@ -31,8 +31,11 @@ Engineering week class notes, and additional links, material etc.
   - Sense:
     https://sense.com/
     
-- Google calculator
+- Tools and calculators
+  - Google has a very cool one here
   - https://www.google.com/get/sunroof#p=0
+  - This site has a great "What can I expect" tool:
+  - https://www.nrel.gov/
   
 - LG&E's page to request a net meter
   - https://lge-ku.com/residential/billing/net-metering
