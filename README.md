@@ -12,6 +12,7 @@ Engineering week class notes, and additional links, material etc.
   - http://hosting.johnnyblayze.com/mann/
   - Roofer: Sergei at goroofitright is great and they have done excellent work for me twice
   - https://www.goroofitright.com/
+  - Jim Piper Pipedream Solar 859-621-6779 - out of Lexington, great prices and decent guy to deal with.
 
 - How-to pages:
   - https://www.anapode.com/content/LearnMore
