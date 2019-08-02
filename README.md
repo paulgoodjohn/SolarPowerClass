@@ -6,6 +6,7 @@ Engineering week class notes, and additional links, material etc.
   - https://www.wholesalesolar.com/
   - https://www.savegreenmoney.com/default.asp
   - https://www.anapode.com/content/Home
+  - https://www.santansolar.com/product/
   
 - Local suppliers
   - Nathan Mann - advertises on Craigslist, stand-up chap, recommended. mannsolarenergy@gmail.com and 
