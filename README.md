@@ -8,6 +8,10 @@ Engineering week class notes, and additional links, material etc.
   - https://www.anapode.com/content/Home
   - https://www.santansolar.com/product/
   
+- Free money
+  - If you run a business in a rural area here are loans and grants (Oldham County is considered rural)
+  - https://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency
+
 - Local suppliers
   - Nathan Mann - advertises on Craigslist, stand-up chap, recommended. mannsolarenergy@gmail.com and 
   - https://mannsolar.com/
