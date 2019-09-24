@@ -28,7 +28,8 @@ Engineering week class notes, and additional links, material etc.
   - http://www.kyses.org/installers
   
 - Permit support documents
-  - These are provided free but if you use them please send an E-mail saying thanks to Ken who runs the site
+  - Copies of Anapode's schematics are on this site, as well as at the link below.
+  - They are free but if you use them please send an E-mail saying thanks to Ken who runs the site
   - https://www.anapode.com/content/Permits 
   
 - Toys
