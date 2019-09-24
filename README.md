@@ -42,6 +42,9 @@ Engineering week class notes, and additional links, material etc.
   - https://www.google.com/get/sunroof#p=0
   - This site has a great "What can I expect" tool:
   - https://www.nrel.gov/
+
+- Indiana net meter stuff
+  - https://www.solarunitedneighbors.org/indiana/issues/net-metering/
   
 - LG&E's page to request a net meter
   - https://lge-ku.com/residential/billing/net-metering
