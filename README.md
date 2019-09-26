@@ -43,6 +43,8 @@ Engineering week class notes, and additional links, material etc.
   - https://www.google.com/get/sunroof#p=0
   - This site has a great "What can I expect" tool:
   - https://www.nrel.gov/
+  - Solar Edge design tool
+  - https://www.solaredge.com/products/installer-tools/designer#/
 
 - Indiana net meter stuff
   - https://www.solarunitedneighbors.org/indiana/issues/net-metering/
