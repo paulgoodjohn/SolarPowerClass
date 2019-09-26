@@ -45,9 +45,14 @@ Engineering week class notes, and additional links, material etc.
   - https://www.nrel.gov/
   - Solar Edge design tool
   - https://www.solaredge.com/products/installer-tools/designer#/
+  - NEC (electrical code)
+  - https://archive.org/details/gov.law.nfpa.nec.2014/page/n2
 
 - Indiana net meter stuff
   - https://www.solarunitedneighbors.org/indiana/issues/net-metering/
+  
+- Louisville solar stuff
+  - https://louisvilleky.gov/government/sustainability/installing-solar-louisville
   
 - LG&E's page to request a net meter
   - https://lge-ku.com/residential/billing/net-metering
