@@ -23,6 +23,7 @@ Engineering week class notes, and additional links, material etc.
   - https://www.anapode.com/content/LearnMore
   - https://www.wholesalesolar.com/solar-information/solar-power-101
   - https://www.solarpowerrocks.com/
+  - https://www.homepower.com/archive-browse
 
 - List of local installers
   - http://www.kyses.org/installers
