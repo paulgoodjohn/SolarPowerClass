@@ -11,7 +11,7 @@ Engineering week class notes, and additional links, material etc.
 - Free money
   - If you run a business in a rural area here are loans and grants (Oldham County is considered rural)
   - https://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency
-  - Federal 30% tax credit
+  - Federal 26% tax credit
   - https://www.anapode.com/content/federaltaxcredit
 
 - Local suppliers
@@ -57,6 +57,3 @@ Engineering week class notes, and additional links, material etc.
   
 - LG&E's page to request a net meter
   - https://lge-ku.com/residential/billing/net-metering
-  
-- Sigh. Politics. The bill that passed the KY Senate concerning net metering
-  - https://apps.legislature.ky.gov/record/19rs/sb100.html
