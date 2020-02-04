@@ -48,8 +48,10 @@ Engineering week class notes, and additional links, material etc.
   - https://www.solaredge.com/products/installer-tools/designer#/
   - NEC (electrical code)
   - https://archive.org/details/gov.law.nfpa.nec.2014/page/n2
-  - Solar power as a retirement strategy
+
+- Solar power as a retirement strategy
   - https://news.energysage.com/solar-power-as-a-retirement-investment-strategy/
+  - https://www.forbes.com/sites/peterdetwiler/2013/06/14/a-new-spin-on-solar-a-great-retirement-vehicle/#2a20960c561d
 
 - Indiana net meter stuff
   - https://www.solarunitedneighbors.org/indiana/issues/net-metering/
