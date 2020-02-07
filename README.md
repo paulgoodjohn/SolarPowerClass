@@ -11,12 +11,12 @@ Engineering week class notes, and additional links, material etc.
 - Free money
   - If you run a business in a rural area here are loans and grants (Oldham County is considered rural)
   - https://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency
-  - Federal 30% tax credit
+  - Federal 26% tax credit
   - https://www.anapode.com/content/federaltaxcredit
 
 - Local suppliers
   - Nathan Mann - advertises on Craigslist, stand-up chap, recommended. mannsolarenergy@gmail.com and 
-  - https://mannsolar.com/
+  - https://mannsolar.com/ He also will install systems if you need that.
   - Jim Piper Pipedream Solar 859-621-6779 - out of Lexington, great prices and decent guy to deal with.
 
 - How-to pages:
@@ -49,6 +49,10 @@ Engineering week class notes, and additional links, material etc.
   - NEC (electrical code)
   - https://archive.org/details/gov.law.nfpa.nec.2014/page/n2
 
+- Solar power as a retirement strategy
+  - https://news.energysage.com/solar-power-as-a-retirement-investment-strategy/
+  - https://www.forbes.com/sites/peterdetwiler/2013/06/14/a-new-spin-on-solar-a-great-retirement-vehicle/#2a20960c561d
+
 - Indiana net meter stuff
   - https://www.solarunitedneighbors.org/indiana/issues/net-metering/
   
@@ -57,6 +61,3 @@ Engineering week class notes, and additional links, material etc.
   
 - LG&E's page to request a net meter
   - https://lge-ku.com/residential/billing/net-metering
-  
-- Sigh. Politics. The bill that passed the KY Senate concerning net metering
-  - https://apps.legislature.ky.gov/record/19rs/sb100.html
