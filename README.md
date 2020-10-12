@@ -24,6 +24,7 @@ Engineering week class notes, and additional links, material etc.
   - https://www.wholesalesolar.com/solar-information/solar-power-101
   - https://www.solarpowerrocks.com/
   - https://www.homepower.com/archive-browse
+  - https://www.wholesalesolar.com/blog/step-by-step-diy-solar-installation
 
 - List of local installers
   - http://www.kyses.org/installers
