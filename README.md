@@ -18,6 +18,7 @@ Engineering week class notes, and additional links, material etc.
   - Nathan Mann - advertises on Craigslist, stand-up chap, recommended. mannsolarenergy@gmail.com and 
   - https://mannsolar.com/ He also will install systems if you need that.
   - Jim Piper Pipedream Solar 859-621-6779 - out of Lexington, great prices and decent guy to deal with.
+  - In Louisville: https://solarmyplace.com/
 
 - How-to pages:
   - https://www.anapode.com/content/LearnMore
