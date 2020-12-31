@@ -8,14 +8,13 @@ Engineering week class notes, and additional links, material etc.
   - https://www.solaris-shop.com/
   - https://www.wholesalesolar.com/
   - https://www.savegreenmoney.com/default.asp
-  - https://www.anapode.com/content/Home
   - https://www.santansolar.com/product/
+  - https://mannsolar.com/current-inventory/
   
 - Free money
   - If you run a business in a rural area here are loans and grants (Oldham County is considered rural)
   - https://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency
   - Federal 26% tax credit
-  - https://www.anapode.com/content/federaltaxcredit
 
 - Local suppliers
   - Nathan Mann - advertises on Craigslist, stand-up chap, recommended. mannsolarenergy@gmail.com and 
@@ -24,7 +23,6 @@ Engineering week class notes, and additional links, material etc.
   - In Louisville: https://solarmyplace.com/
 
 - How-to pages:
-  - https://www.anapode.com/content/LearnMore
   - https://www.wholesalesolar.com/solar-information/solar-power-101
   - https://www.solarpowerrocks.com/
   - https://www.homepower.com/archive-browse
@@ -34,9 +32,7 @@ Engineering week class notes, and additional links, material etc.
   - http://www.kyses.org/installers
   
 - Permit support documents
-  - Copies of Anapode's schematics are on this site, as well as at the link below.
-  - They are free but if you use them please send an E-mail saying thanks to Ken who runs the site
-  - https://www.anapode.com/content/Permits 
+  - Copies of permit schematics from Anapode (now no longer accessible) are on this site.
   
 - Toys
   - Enlighten - view of my system is here:
