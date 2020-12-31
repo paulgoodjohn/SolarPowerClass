@@ -1,6 +1,9 @@
 # SolarPowerClass
 Engineering week class notes, and additional links, material etc.
 
+- News:
+  - As part of the December 2020 covid relief bill, the investment tax credit (ITC) under Section 48 was extended by two years. That is, a solar project that begins construction in either 2020, 2021 or 2022 is eligible for a 26% ITC. A solar project that begins construction in 2023 is eligible for a 22% ITC. Solar projects that begin construction after 2023 are only eligible for a 10% ITC. Likewise, solar projects that are placed in service after 2025 are only eligible for a 10% ITC.
+  
 - Vendors:
   - https://www.solaris-shop.com/
   - https://www.wholesalesolar.com/
