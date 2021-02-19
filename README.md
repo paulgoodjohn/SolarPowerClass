@@ -62,3 +62,6 @@ Engineering week class notes, and additional links, material etc.
   
 - LG&E's page to request a net meter
   - https://lge-ku.com/residential/billing/net-metering
+
+- Politics and the fight to keep net metering
+  - https://www.sesre.com/public-comment-on-net-metering-rate-cases/
