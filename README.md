@@ -1,5 +1,7 @@
 # SolarPowerClass
-Engineering week class notes, and additional links, material etc.
+These are the class notes and supporting material for the class taught to engineers at GE Appliances during engineering week. The class is intended to give a broad overview of the tools and materials that are available but doesn't presume much actual technical knowledge. The class has been taught now for several years, and it evolves each time and as new information is found.
+
+All the stuff in here is freely available for anyone to use - likewise, if anyone out there in the wider internet world has stuff that isn't here please submit the changes you would like via a pull request (the tab above). Feel free to clone this, look at all the documents and please, have a go. The worst thing that could happen is the world gets to be a little bit better :)
 
 - News:
   - As part of the December 2020 covid relief bill, the investment tax credit (ITC) under Section 48 was extended by two years. That is, a solar project that begins construction in either 2020, 2021 or 2022 is eligible for a 26% ITC. A solar project that begins construction in 2023 is eligible for a 22% ITC. Solar projects that begin construction after 2023 are only eligible for a 10% ITC. Likewise, solar projects that are placed in service after 2025 are only eligible for a 10% ITC.
