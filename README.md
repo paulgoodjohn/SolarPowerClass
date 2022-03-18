@@ -29,6 +29,8 @@ All the stuff in here is freely available for anyone to use - likewise, if anyon
   - https://www.solarpowerrocks.com/
   - https://www.homepower.com/archive-browse
   - https://www.wholesalesolar.com/blog/step-by-step-diy-solar-installation
+  Off-grid compendium
+  - https://www.primalsurvivor.net/wind-solar-hybrid-system/
 
 - List of local installers
   - http://www.kyses.org/installers
