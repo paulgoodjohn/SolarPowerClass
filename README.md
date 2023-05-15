@@ -4,7 +4,7 @@ These are the class notes and supporting material for the class taught to engine
 All the stuff in here is freely available for anyone to use - likewise, if anyone out there in the wider internet world has stuff that isn't here please submit the changes you would like via a pull request (the tab above). Feel free to clone this, look at all the documents and please, have a go. The worst thing that could happen is the world gets to be a little bit better :)
 
 - News:
-  - As part of the December 2020 covid relief bill, the investment tax credit (ITC) under Section 48 was extended by two years. That is, a solar project that begins construction in either 2020, 2021 or 2022 is eligible for a 26% ITC. A solar project that begins construction in 2023 is eligible for a 22% ITC. Solar projects that begin construction after 2023 are only eligible for a 10% ITC. Likewise, solar projects that are placed in service after 2025 are only eligible for a 10% ITC.
+  - As part of the Inflation Reduction Act of 2023 a solar project that begins construction in either 2023 is eligible for a 30% ITC. 
   
 - Vendors:
   - https://www.solaris-shop.com/
