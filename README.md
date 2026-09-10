@@ -6,7 +6,6 @@ All the stuff in here is freely available for anyone to use - likewise, if anyon
 - Vendors:
   - https://www.solaris-shop.com/
   - https://www.wholesalesolar.com/
-  - https://www.savegreenmoney.com/default.asp
   - https://www.santansolar.com/product/
   - https://mannsolar.com/current-inventory/
   
