@@ -3,9 +3,6 @@ These are the class notes and supporting material for the class taught to engine
 
 All the stuff in here is freely available for anyone to use - likewise, if anyone out there in the wider internet world has stuff that isn't here please submit the changes you would like via a pull request (the tab above). Feel free to clone this, look at all the documents and please, have a go. The worst thing that could happen is the world gets to be a little bit better :)
 
-- News:
-  - As part of the Inflation Reduction Act of 2023 a solar project that begins construction in either 2023 is eligible for a 30% ITC. 
-  
 - Vendors:
   - https://www.solaris-shop.com/
   - https://www.wholesalesolar.com/
@@ -31,6 +28,9 @@ All the stuff in here is freely available for anyone to use - likewise, if anyon
   - https://www.wholesalesolar.com/blog/step-by-step-diy-solar-installation
   Off-grid compendium
   - https://www.primalsurvivor.net/wind-solar-hybrid-system/
+
+- Balcony solar
+  - https://ussolarsupplier.com/products/apsystems-ez1-microinverter-plug-in-dual-module-inverter-for-120v-circuits
 
 - List of local installers
   - http://www.kyses.org/installers
@@ -66,6 +66,3 @@ All the stuff in here is freely available for anyone to use - likewise, if anyon
   
 - LG&E's page to request a net meter
   - https://lge-ku.com/residential/billing/net-metering
-
-- Politics and the fight to keep net metering
-  - https://www.sesre.com/public-comment-on-net-metering-rate-cases/
