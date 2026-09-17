@@ -8,12 +8,11 @@ All the stuff in here is freely available for anyone to use - likewise, if anyon
   - https://www.wholesalesolar.com/
   - https://www.santansolar.com/product/
   - https://mannsolar.com/current-inventory/
+ 
+- Helpful local links:
+  - https://louisvilleky.gov/government/sustainability/solarize-louisville
+  - https://solarkentucky.org/ 
   
-- Free money
-  - If you run a business in a rural area here are loans and grants (Oldham County is considered rural)
-  - https://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency
-  - Federal 26% tax credit
-
 - Local suppliers
   - Nathan Mann - advertises on Craigslist, stand-up chap, recommended. mannsolarenergy@gmail.com and 
   - https://mannsolar.com/ He also will install systems if you need that.
