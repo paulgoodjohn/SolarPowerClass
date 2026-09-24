@@ -18,6 +18,7 @@ All the stuff in here is freely available for anyone to use - likewise, if anyon
   - https://mannsolar.com/ He also will install systems if you need that.
   - Jim Piper Pipedream Solar 859-621-6779 - out of Lexington, great prices and decent guy to deal with.
   - In Louisville: https://solarmyplace.com/
+  - https://apollosolarllc.com/ 
 
 - How-to pages:
   - https://www.wholesalesolar.com/solar-information/solar-power-101
